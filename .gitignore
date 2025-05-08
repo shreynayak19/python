@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Python virtual environment and requirements.txt
+venv
+requirements.txt
