@@ -176,3 +176,4 @@ cython_debug/
 # Python virtual environment and requirements.txt
 venv
 requirements.txt
+python.code-workspace
